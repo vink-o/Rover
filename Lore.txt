@@ -1,0 +1,46 @@
+========================================================================
+                              M A R S   E X P L O R E R
+                         The First Silent Mission
+========================================================================
+
+============================== MISSION BRIEFING ==============================
+
+Year 2047
+
+For centuries, humanity has gazed at the red planet in the night sky,
+wondering what secrets lie hidden beneath its endless deserts of dust
+and stone. Mars has always been a symbol of curiosity, exploration,
+and the unknown.
+
+After decades of orbital missions and robotic probes, humanity has
+finally taken the next step.
+
+A new exploration rover has landed safely on the Martian surface.
+
+=============================== YOUR ROLE ===================================
+
+You are the remote operator guiding this rover from Earth.
+Every command travels millions of kilometers through space.
+Every decision you make determines whether the mission succeeds or fails.
+
+=========================== MISSION OBJECTIVES ==============================
+
+  - Navigate the dangerous Martian terrain
+  - Locate and scan scientific samples
+  - Manage the rover's limited energy supply
+  - Avoid rocks and environmental hazards
+  - Return safely to the base station
+
+=============================== WARNING ====================================
+
+Mars is an unforgiving world.
+Energy is limited.
+The terrain is unpredictable.
+One mistake could end the mission forever.
+
+If the rover loses power, it will remain silent on the Martian surface.
+
+========================================================================
+                              Good luck, Operator!
+========================================================================
+
